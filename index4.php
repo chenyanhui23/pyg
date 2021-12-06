@@ -1,3 +1,3 @@
 <?php
-	echo "index4.php";
+  echo "最终内容是这里";
 ?>
